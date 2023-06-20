@@ -24,6 +24,9 @@ A developer who thinks, researches, creates, and connects to practical realizati
 <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>  [![Notion Portfolio Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4)
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeHyun-Kim&layout=compact">
+
+
 
   
 

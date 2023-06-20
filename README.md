@@ -21,12 +21,11 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 ### 🤙🏻 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](judy5825@gmail.com)
-  [![Notion Portfolio Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4)
+<a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>  [![Notion Portfolio Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4)
 
 
 
-
+  
 
 <!--
 **mlnzlk/mlnzlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

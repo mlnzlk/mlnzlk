@@ -19,7 +19,7 @@
 ### 🤙🏻 Contact
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)
 
- [![Notion Badge](https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion &logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4) <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>  <a href="https://www.instagram.com/mlnzlk/">
+ [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion &logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4) <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>  <a href="https://www.instagram.com/mlnzlk/">
 <img src="https://img.shields.io/badge/mlnzlk-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/mlnzlk/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 

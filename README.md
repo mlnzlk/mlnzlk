@@ -1,8 +1,8 @@
-### 👋 Hi Welcome! I'm Minji Kwon.
-### 안녕하세요! 웹 개발을 공부하는 권민지 입니다.
+##### 👋 Hi Welcome! I'm Minji Kwon.
+##### 안녕하세요! 웹 개발을 공부하는 권민지 입니다.
 
-# Developers who create beneficial social values
-# A developer who thinks, researches, creates, and connects to practical realization by web
+##### Developers who create beneficial social values
+##### A developer who thinks, researches, creates, and connects to practical realization by web
 
 ### 🛠️ Stacks
 

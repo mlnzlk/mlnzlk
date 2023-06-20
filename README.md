@@ -1,4 +1,4 @@
-### 👋Hi Welcome, i'm Minji Kwom!
+👋Hi Welcome, i'm Minji Kwom!
 안녕하세요! 웹 개발을 공부하는 권민지 입니다.
 
 #### 👩🏻‍💻 Developers

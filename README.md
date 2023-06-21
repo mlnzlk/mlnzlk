@@ -1,6 +1,7 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A991&height=200&section=header&text=MinJi's%20Github!&fontSize=60" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A991&height=200&section=header&text=MinJi's%20Github&fontSize=60" />	
 </div>
+
 
 ## 👋 Hi!
 👩🏻‍💻안녕하세요! 웹/앱 개발을 공부하는 권민지 입니다.

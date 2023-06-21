@@ -5,6 +5,10 @@
 ## 👋 Hi!
 👩🏻‍💻안녕하세요! 웹/앱 개발을 공부하는 권민지 입니다.
 
+🦁LikeLion KwangWoon University 11th (프로그래밍/해커톤 학회) (2023.3~2023.12)
+
+
+
 
 
 ## 🛠️ Stacks

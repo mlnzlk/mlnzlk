@@ -2,12 +2,12 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A991&height=200&section=header&text=MinJi's%20Github!&fontSize=60" />	
 </div>
 
-👋Hi Welcome, i'm Minji Kwom!
+## 👋 Hi!
+👩🏻‍💻안녕하세요! 웹/앱 개발을 공부하는 권민지 입니다.
 
-안녕하세요! 웹/앱 개발을 공부하는 권민지 입니다.
 
 
-### 🛠️ Stacks
+## 🛠️ Stacks
 
 <block>
   <span>
@@ -23,7 +23,7 @@
 </block>
 
 
-### 💪🏻 Tools 
+## 💪🏻 Tools 
 <span> 
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 
 
-### 🤙🏻 Contact
+## 🤙🏻 Contact
 <span> 
     <a href="https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"></a>
     <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>

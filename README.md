@@ -3,18 +3,21 @@
 </div>
 
 
-## 🔭About me
-#### 👩🏻‍💻안녕하세요! 웹/앱 개발을 공부하는 권민지 입니다.
+## About me
+### Hi! I'm Minji Kwon, who studies web/app development.
 
-🦁LikeLion KwangWoon University 11th [프로그래밍/해커톤] (2023.3~2023.12)
+🦁LikeLion KwangWoon University 11th - Front-end Programming
+/Hackathon (2023.3 ~ 2023.12 ) <br>
+📊Big Data Analysis Club [BDA] 6th - team member for Basic Data Analysis (2023.3~) <br>
+👩🏻‍🏫Team member for Education Donation Program 'Sok Sok Camp' (2021.04 ~ 2021.09) <br>
 
-📊BDA [Big Data Analysis] 6th (2023.3~)
+### Contact: 
+<a href="https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
+<a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/mlnzlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
-
-
-
-## 🛠️ Stacks
+## Stacks
 
 <block>
   <span>
@@ -30,24 +33,15 @@
 </block>
 
 
-## 💪🏻 Tools 
+## Tools 
 <span> 
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 </span>
+<br><br>
 
-
-
-## 🤙🏻 Contact
-<span> 
-    <a href="https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"></a>
-    <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.instagram.com/mlnzlk/">
-<img src="https://img.shields.io/badge/mlnzlk-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/mlnzlk/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-</span>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlnzlk&layout=compact">
 

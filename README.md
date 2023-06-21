@@ -16,8 +16,8 @@
 📊Big Data Analysis Club [BDA] 6th - team member for Basic Data Analysis (2023.3~) <br>
 📖Team member for Education Program 'Sok Sok Camp' organized by the Korea Foundation for Science and Creativity (2021.04 ~ 2021.09) <br>
 📖Team member for 'Chungwoon Coding Education Program (2022.1 ~ 2022.3) <br>
-👩🏻‍🏫 D.Lab Coding Academy instructor [D.Lab](https://www.daddyslab.com)  <br>
-🎓SM-PAIR Conference (2021.1) [CERTIFICATE](https://github.com/mlnzlk/mlnzlk/blob/master/SM-PAIR%20수료증_권민지.pdf)
+👩🏻‍🏫 [D.Lab](https://www.daddyslab.com) Coding Academy instructor   <br>
+🎓 [SM-PAIR](https://github.com/mlnzlk/mlnzlk/blob/master/SM-PAIR%2015th%20Conference%20Brochure.pdf) Conference(2021.1) -> [CERTIFICATE](https://github.com/mlnzlk/mlnzlk/blob/master/SM-PAIR%20수료증_권민지.pdf)
 
 ## Stacks
 

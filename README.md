@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-### Hi! I'm Minji Kwon, who studieshttps://github.com/mlnzlk/mlnzlk web/app development.
+### Hi! I'm Minji Kwon, who studies web/app development.
 📧Contact :
 <a href="https://shared-capybara-de0.notion.site/Front-end-Programmer-a6045c13425f402f83f61b8de58877a8?pvs=4
 " target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>

@@ -2,11 +2,11 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A991&height=200&section=header&text=MinJi's%20Github&fontSize=60" />	
 </div>
 
-
 ## About me
 ### Hi! I'm Minji Kwon, who studieshttps://github.com/mlnzlk/mlnzlk web/app development.
-📧Contact: 
-<a href="https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4" target="_blank><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
+📧Contact :
+<a href="https://shared-capybara-de0.notion.site/Front-end-Programmer-a6045c13425f402f83f61b8de58877a8?pvs=4
+" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
 <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/mlnzlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <br><br>

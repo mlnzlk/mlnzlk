@@ -4,14 +4,15 @@
 
 
 ## About me
-### Hi! I'm Minji Kwon, who studies web/app development.
+### Hi! I'm Minji Kwon, who studieshttps://github.com/mlnzlk/mlnzlk web/app development.
 📧Contact: 
 <a href="https://shared-capybara-de0.notion.site/a0b3486c0ad948af844c24f78c0370d4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
 <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/mlnzlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <br><br>
 
-🦁LikeLion KwangWoon University 11th - Front-end Programming
+🦁[LikeLion](https://kw-likelion11.notion.site/11-6d1d05b2ee8b42ec9e917a45afd8040c
+) KwangWoon University 11th - Front-end Programming
 /Hackathon (2023.3 ~ 2023.12 ) <br>
 📊Big Data Analysis Club [BDA] 6th - team member for Basic Data Analysis (2023.3~) <br>
 📖Team member for Education Program 'Sok Sok Camp' organized by the Korea Foundation for Science and Creativity (2021.04 ~ 2021.09) <br>

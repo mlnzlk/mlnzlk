@@ -21,7 +21,6 @@
 🎓 [SM-PAIR](https://github.com/mlnzlk/mlnzlk/blob/master/SM-PAIR%2015th%20Conference%20Brochure.pdf) Conference(2021.1) -> [CERTIFICATE](https://github.com/mlnzlk/mlnzlk/blob/master/SM-PAIR%20수료증_권민지.pdf)
 
 ## Stacks
-
 <block>
   <span>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
@@ -31,7 +30,7 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=D3.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/dotnet-512BD4?style=flat&logo=Node.js&logoColor=white"/>
   </span>
 </block>
 

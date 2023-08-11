@@ -4,11 +4,13 @@
 
 ## About me
 ### Hi! I'm Minji Kwon, who studies web/app development.
-📧Contact :
+📧Contact me :
 <a href="https://shared-capybara-de0.notion.site/Front-end-Programmer-a6045c13425f402f83f61b8de58877a8?pvs=4
 " target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
 <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/mlnzlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/mlnzlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
+🧠My Blog : 
+<a href="https://mlnzlk.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
 <br><br>
 
 🦁[LikeLion](https://kw-likelion11.notion.site/11-6d1d05b2ee8b42ec9e917a45afd8040c
@@ -20,11 +22,10 @@
 👩🏻‍🏫 [D.Lab](https://www.daddyslab.com) Coding Academy instructor   <br>
 🎓 [SM-PAIR](https://github.com/mlnzlk/mlnzlk/blob/master/SM-PAIR%2015th%20Conference%20Brochure.pdf) Conference(2021.1) -> [CERTIFICATE](https://github.com/mlnzlk/mlnzlk/blob/master/SM-PAIR%20수료증_권민지.pdf)
 
-## Stacks
-<block>
+## Stacks <block>
   <span>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat square&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">

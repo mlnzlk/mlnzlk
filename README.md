@@ -8,7 +8,7 @@
 <a href="https://shared-capybara-de0.notion.site/Front-end-Programmer-a6045c13425f402f83f61b8de58877a8?pvs=4
 " target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
 <a href="mailto:judy5825@gmail.com" target="_blank"><img src="https://img.shields.io/badge/judy5825@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/mlnzlk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
+<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
 🧠My Blog : 
 <a href="https://mlnzlk.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
 <br><br>

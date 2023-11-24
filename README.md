@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
 </span>
 <br><br>
 

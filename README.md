@@ -1,7 +1,4 @@
-
-
 ## Hi! I'm Frontend Developer Minji Kwon
-### About me
 
 📧Contact me :
 <a href="https://shared-capybara-de0.notion.site/Front-end-Programmer-a6045c13425f402f83f61b8de58877a8?pvs=4
